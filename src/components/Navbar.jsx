@@ -32,7 +32,7 @@ export default function Navbar({ cartCount, onCartOpen, onSearch, searchQuery })
           }}>Fshion</span>
         </div>
 
-        {/* Search bar */}
+        {/* Search bar */}s
         <div style={{
           flex: 1, maxWidth: 360,
           margin: "0 2rem",
